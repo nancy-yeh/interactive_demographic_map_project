@@ -1,0 +1,241 @@
+<?xml version="1.0"?>
+
+<demographicdata>
+	<group>
+		<position x ="500" y="620"/>
+		<label>Fort York</label>
+		<population>114,315</population>
+		<diameter>381</diameter>
+		<asianper> 23.1</asianper>
+		<whiteper> 56.3</whiteper>
+		<blackper> 5.1 </blackper>
+		<text> White population 64,359. Asian population 26,407. Black population 5,830.</text>
+	</group>
+	<group>
+		<position x ="750" y="500"/>
+		<label> East York </label>
+		<diameter>371</diameter>
+		<asianper> 17.5 </asianper>
+		<whiteper> 64.5 </whiteper>
+		<blackper> 14.8 </blackper>
+		<text> White population 69,941. Asian population 18,000. Black population 7,157.</text>
+	</group>
+	<group>
+		<position x ="360" y="450"/>
+		<label>  Davenport </label>
+		<diameter>369</diameter>
+		<asianper> 5.9 </asianper>
+		<whiteper> 66.9 </whiteper>
+		<blackper> 6.4 </blackper>
+		<text> White population 69,941. Asian population 6,336. Black population 6,873.</text>
+	</group>
+	<group>
+		<position x ="270" y="480"/>
+		<label>  High Park </label>
+		<diameter>368</diameter>
+		<asianper> </asianper>
+		<whiteper> 72.4 </whiteper>
+		<blackper> 5.3 </blackper>
+		<text> White population 77,066. Black population 5,642.</text>
+	</group>
+	<group>
+		<position x ="650" y="550"/>
+		<label>  Danforth </label>
+		<diameter>366</diameter>
+		<asianper>17.7</asianper>
+		<whiteper> 72.4 </whiteper>
+		<blackper> 5 </blackper>
+		<text> White population 76,306. Asian population 18,655. Black population 5,270.</text>
+	</group>
+	<group>
+		<position x ="450" y="380"/>
+		<label> St. Paul's </label>
+		<diameter>365</diameter>
+		<asianper> </asianper>
+		<whiteper> 70.8 </whiteper>
+		<blackper> 5.1 </blackper>
+		<text> White population 74,298. Black population 5,352.</text>
+	</group>
+	<group>
+		<position x ="460" y="480"/>
+		<label> Rosedale</label>
+		<diameter>357</diameter>
+		<asianper> 14 </asianper>
+		<whiteper> 66.5 </whiteper>
+		<blackper>  </blackper>
+		<text> White population 66,846. Asian population 14,073.</text>
+	</group>
+	<group>
+		<position x ="550" y="520"/>
+		<label> Toronto Centre </label>
+		<diameter>356</diameter>
+		<asianper> 22.9 </asianper>
+		<whiteper> 48.8 </whiteper>
+		<blackper> 9.1 </blackper>
+		<text> White population 48,600. Asian population 22,806. Black population 9,063.</text>
+	</group>
+	<group>
+		<position x ="430" y="280"/>
+		<label> Eglinton </label>
+		<diameter>379</diameter>
+		<asianper> 10.7</asianper>
+		<whiteper> 67.7 </whiteper>
+		<blackper> 5.5 </blackper>
+		<text> White population 76,450. Asian population 12,083. Black population 6,211.</text>
+	</group>
+	<group>
+		<position x ="600" y="280"/>
+		<label> Don Valley West </label>
+		<diameter>360</diameter>
+		<asianper> 23.9 </asianper>
+		<whiteper> 57.9 </whiteper>
+		<blackper>  </blackper>
+		<text> White population 58,936. Asian population 24,328.</text>
+	</group>
+	<group>
+		<position x ="750" y="280"/>
+		<label> Don Valley East </label>
+		<diameter>344</diameter>
+		<asianper> 37.5 </asianper>
+		<whiteper> 40.9 </whiteper>
+		<blackper> 9.3 </blackper>
+		<text> White population 38,107. Asian population 34,939. Black population 8,665.</text>
+	</group>
+	<group>
+		<position x ="260" y="290"/>
+		<label> Weston </label>
+		<diameter>382</diameter>
+		<asianper> 11.4</asianper>
+		<whiteper> 44.2 </whiteper>
+		<blackper> 23.2 </blackper>
+		<text> White population 50,887. Asian population 13,125. Black population 26,710.</text>
+	</group>
+	<group>
+		<position x ="920" y="420"/>
+		<label> Scarborough Southwest </label>
+		<diameter>371</diameter>
+		<asianper> 36.4</asianper>
+		<whiteper> 42 </whiteper>
+		<blackper> 11.2</blackper>
+		<text> White population 45,484. Asian population 39,419. Black population 12,129.</text>
+	</group>
+	<group>
+		<position x ="900" y="250"/>
+		<label> Scarborough Centre </label>
+		<diameter>375</diameter>
+		<asianper> 47.4</asianper>
+		<whiteper> 29.4 </whiteper>
+		<blackper> 9.6</blackper>
+		<text> White population 32,472. Asian population 52,353. Black population 10,603.</text>
+	</group>
+	<group>
+		<position x ="1060" y="260"/>
+		<label> Scarborough Guildwood </label>
+		<diameter>358</diameter>
+		<asianper> 46.5</asianper>
+		<whiteper> 27.6 </whiteper>
+		<blackper> 14.3</blackper>
+		<text> White population 27,908. Asian population 47,018. Black population 14,459.</text>
+	</group>
+	<group>
+		<position x ="1180" y="80"/>
+		<label> Scarborough Rouge Park </label>
+		<diameter>359</diameter>
+		<asianper> 41.3</asianper>
+		<whiteper> 26.8 </whiteper>
+		<blackper> 15.9</blackper>
+		<text> White population 27,187. Asian population 41,897. Black population 16,130.</text>
+	</group>
+	<group>
+		<position x ="1005" y="80"/>
+		<label> Scarborough North </label>
+		<diameter>352</diameter>
+		<asianper> 77.5</asianper>
+		<whiteper> 7.6 </whiteper>
+		<blackper> 7.6</blackper>
+		<text> White population 7,418. Asian population 75,648. Black population 7,418.</text>
+	</group>
+	<group>
+		<position x ="860" y="90"/>
+		<label> Scarborough Agincourt </label>
+		<diameter>364</diameter>
+		<asianper> 65.2</asianper>
+		<whiteper> 19.1 </whiteper>
+		<blackper> 6.3</blackper>
+		<text> White population 19,907. Asian population 67,955. Black population 6,566.</text>
+	</group>
+	<group>
+		<position x ="700" y="80"/>
+		<label> Don Valley North </label>
+		<diameter>372</diameter>
+		<asianper> 49.1</asianper>
+		<whiteper> 29.4 </whiteper>
+		<blackper> </blackper>
+		<text> White population 32,064. Asian population 53,548.</text>
+	</group>
+	<group>
+		<position x ="550" y="80"/>
+		<label> Willowdale </label>
+		<diameter>386</diameter>
+		<asianper> 33.1</asianper>
+		<whiteper> 57.8 </whiteper>
+		<blackper> 9.1 </blackper>
+		<text> White population 38,861. Asian population 67,860.Black population 10,684.</text>
+	</group>
+	<group>
+		<position x ="390" y="100"/>
+		<label> York Center </label>
+		<diameter>363</diameter>
+		<asianper> 16.5</asianper>
+		<whiteper> 53.1 </whiteper>
+		<blackper> 3.9 </blackper>
+		<text> White population 55,097. Asian population 17,120.Black population 4,047.</text>
+	</group>
+	<group>
+		<position x ="220" y="70"/>
+		<label> Black Creek </label>
+		<diameter>370</diameter>
+		<asianper> 15.4</asianper>
+		<whiteper> 25.4 </whiteper>
+		<blackper> 22.8 </blackper>
+		<text> White population 27,362. Asian population 16,590.Black population 24,561.</text>
+	</group>
+	<group>
+		<position x ="70" y="130"/>
+		<label> Etobicoke North </label>
+		<diameter>386</diameter>
+		<asianper> 28.9</asianper>
+		<whiteper> 23.8 </whiteper>
+		<blackper> 23.4 </blackper>
+		<text> White population 27,836. Asian population 33,801.Black population 27,369.</text>
+	</group>
+	<group>
+		<position x ="80" y="380"/>
+		<label> Etobicoke Center </label>
+		<diameter>384</diameter>
+		<asianper> 5.9</asianper>
+		<whiteper> 72.3 </whiteper>
+		<blackper> 5.9 </blackper>
+		<text> White population 83,908. Asian population 6,847.Black population 6,847.</text>
+	</group>
+	<group>
+		<position x ="80" y="570"/>
+		<label> Etobicoke Lakeshore </label>
+		<diameter>403</diameter>
+		<asianper> 5.5</asianper>
+		<whiteper> 71.3 </whiteper>
+		<blackper> 5.5 </blackper>
+		<text> White population 90,922. Asian population 7,014.Black population 6,376.</text>
+	</group>
+
+
+
+
+
+
+
+
+
+
+
+</demographicdata>
